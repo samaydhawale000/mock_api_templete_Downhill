@@ -1,0 +1,176 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "CARVER 30.25 FIREFLY SURFSKATE 2022 COMPLETE CX",
+        "price": 250.00,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/611/3418/CarverFirefly2022CX__46150.1681836811.jpg?c=1"
+      },
+      {
+        "id": 2,
+        "title": "CARVER X BING 37 CONTINENTAL SURFSKATE COMPLETE CX",
+        "price": 270.00,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/700/3815/CarverBingContinentalCX2023_2Up__18869.1682050058.jpg?c=1"
+      },
+      {
+        "id": 3,
+        "title": "CARVER X BING 27.5 PUCK SURFSKATE COMPLETE C7",
+        "price": 285.10,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/699/3816/CarverBingPuckC72023_2Up__80529.1683034466.jpg?c=1"
+      },
+      {
+        "id": 4,
+        "title": "CARVER 29.5 CHRYSALIS SURFSKATE COMPLETE CX",
+        "price": 250.00,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/693/3787/CarverChrysalis2022_1000X1000__44396.1669068179.jpg?c=1"
+      },
+      {
+        "id": 5,
+        "title": "33.5 J.O.B CAMO TIGER SURFSKATE 2022 COMPLETE C7",
+        "price": 285.00,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/604/3409/CarverJOBCamoTigerC7__20975.1681847504.jpg?c=1"
+      },
+      {
+        "id": 6,
+        "title": "'31 J.O.B BLUE TIGER SURFSKATE 2022 COMPLETE C7",
+        "price": 285.00,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/602/3407/CarverJOBBlueTigerC7__10615.1681847446.jpg?c=1"
+      },
+      {
+        "id": 7,
+        "title": "CARVER 31 KAI LENNY LAVA SURFSKATE 2022 COMPLETE CX",
+        "price": 285.00,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/597/3402/CarverKaiLavaCX__81012.1681847634.jpg?c=1"
+      },
+      {
+        "id": 8,
+        "title": "CARVER 34 KAI LENNY DRAGON SURFSKATE 2022 COMPLETE CX",
+        "price": 235.00,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/599/3404/CarverKaiDragonCX__63356.1679689395.jpg?c=1"
+      },
+      {
+        "id": 9,
+        "title": "CARVER 30.75 AIPA 'STING' SURFSKATE COMPLETE C7",
+        "price": 135.00,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/558/3294/CarverAipaC72021__31066.1681835050.jpg?c=1"
+      },
+      {
+        "id": 10,
+        "title": "CARVER 34 KAI LENNY DRAGON SURFSKATE 2022 COMPLETE CX",
+        "price": 245.20,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/599/3404/CarverKaiDragonCX__63356.1679689395.jpg?c=1"
+      },
+      {
+        "id": 11,
+        "title": "CARVER 31.25 KNOX PHOENIX SURFSKATE 2022 COMPLETE C7",
+        "price": 445.20,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/606/3411/CarverKnoxPhoenixC7__25843.1681853511.jpg?c=1"
+      },
+      {
+        "id": 12,
+        "title": "CARVER 33.75 GREENROOM SURFSKATE 2022 COMPLETE C7",
+        "price": 205.61,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/616/3423/CarverGreenroom2022C7__07923.1679689460.jpg?c=1"
+      },
+      {
+        "id": 13,
+        "title": "CARVER SWALLOW 29.5 SURFSKATE 2022 COMPLETE C7",
+        "price": 385.20,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/614/3421/CarverSwallow2022C7__97455.1681853344.jpg?c=1"
+      },
+      {
+        "id": 14,
+        "title": "CARVER SWALLOW 29.5 SURFSKATE 2022 COMPLETE C7",
+        "price": 115.20,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/611/3418/CarverFirefly2022CX__46150.1681836811.jpg?c=1"
+      },
+      {
+        "id": 15,
+        "title": "CARVER SWALLOW 29.5 SURFSKATE 2022 COMPLETE C7",
+        "price": 185.20,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/610/3417/CarverResin2022C7__09420.1681852565.jpg?c=1"
+      },
+      {
+        "id": 16,
+        "title": "CARVER SWALLOW 29.5 SURFSKATE 2022 COMPLETE C7",
+        "price": 75.20,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/608/3413/CarverTommiiProteusC7__22795.1681852345.jpg?c=1"
+      },
+      {
+        "id": 17,
+        "title": "CARVER SWALLOW 29.5 SURFSKATE 2022 COMPLETE C7",
+        "price": 185.20,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/585/3390/GrlSwirlSilhouetteCX2021__30772.1681846228.jpg?c=1"
+      },
+      {
+        "id": 18,
+        "title": "CARVER SWALLOW 29.5 SURFSKATE 2022 COMPLETE C7",
+        "price": 75.20,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/608/3413/CarverTommiiProteusC7__22795.1681852345.jpg?c=1"
+      },
+      {
+        "id": 19,
+        "title": "CARVER SWALLOW 29.5 SURFSKATE 2022 COMPLETE C7",
+        "price": 185.20,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/587/3392/GrlSwirlBaileyCX2021__98747.1681846378.jpg?c=1"
+      },
+      {
+        "id": 20,
+        "title": "CARVER SWALLOW 29.5 SURFSKATE 2022 COMPLETE C7",
+        "price": 175.12,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/561/3262/CarverYagoCX2021__90622.1611690918.1280.1280__52191.1681853887.jpg?c=1"
+      },
+      {
+        "id": 21,
+        "title": "CARVER SWALLOW 29.5 SURFSKATE 2022 COMPLETE C7",
+        "price": 375.20,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/502/3006/CarverScapeC52021__80702.1682429181.jpg?c=1"
+      },
+      {
+        "id": 22,
+        "title": "CARVER SWALLOW 29.5 SURFSKATE 2022 COMPLETE C7",
+        "price": 55.10,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/503/3287/CarverSunRayC52021__00483.1681852627.jpg?c=1"
+      },
+      {
+        "id": 23,
+        "title": "CARVER SWALLOW 29.5 SURFSKATE 2022 COMPLETE C7",
+        "price": 35.20,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/530/3170/Carver2020GreenroomCX__93655.1607027856.1280.1280__96878.1677001980.jpg?c=1"
+      },
+      {
+        "id": 24,
+        "title": "CARVER SWALLOW 29.5 SURFSKATE 2022 COMPLETE C7",
+        "price": 325.20,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/532/3179/Carver2020GlassOffCX__48396.1607027866.1280.1280__05470.1681837021.jpg?c=1"
+      },
+      {
+        "id": 25,
+        "title": "CARVER SWALLOW 29.5 SURFSKATE 2022 COMPLETE C7",
+        "price": 352.21,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/549/3247/Carver2020KnoxQuillC7__65624.1607027819.1280.1280__61111.1679689369.jpg?c=1"
+      },
+      {
+        "id": 26,
+        "title": "CARVER SWALLOW 29.5 SURFSKATE 2022 COMPLETE C7",
+        "price": 652.21,
+        "image": "https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/576/3277/CarverLostRNFC72021__51097.1611695917.1280.1280__50842.1681852082.jpg?c=1"
+      }
+     
+    ],
+
+    "login": [
+      {
+        "id": 1,
+        "email": "samay@gmail.com",
+        "password": "Samay@123"
+      }
+    ],
+
+    "admin": [
+      {
+        
+      }
+      
+    ]
+  }
